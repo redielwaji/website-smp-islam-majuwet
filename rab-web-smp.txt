@@ -3,11 +3,14 @@
 ## 1. Domain
 - .sch.id : Rp 200.000 - 500.000 / tahun
 
-## 2. Hosting
+## 2. Analisis Dan Perancangan SIstem
+- APS : Rp 350.00 - Rp 400.000
+
+## 3. Hosting
 - Shared hosting: Rp 300.000 - 1.000.000 / tahun
 
-## 3. Desain & Development
+## 4. Desain & Development
 - Sederhana: Rp 1.000.000 - 3.000.000
 
-## 4. Total perkiraan
+## 5. Total perkiraan
 - Rp 1.500.000 - 4.500.000
